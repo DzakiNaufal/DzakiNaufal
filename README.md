@@ -1,7 +1,7 @@
 <!-- Profil GitHub - Dzaki Naufal Putra -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dzaki+Naufal+Putra;Welcome+to+my+GitHub+Profile!;Coding+is+my+passion+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=#FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dzaki+Naufal+Putra;Welcome+to+my+GitHub+Profile!;Coding+is+my+passion+🚀" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Imformation Technology student | Padang State Polytechnic | Coding Enthusiast</h3>
@@ -17,14 +17,7 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 ### 🧠 Programming Language & Technology
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Backend-PHP-purple?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,java,mysql" />
 </p>
 
 ---
