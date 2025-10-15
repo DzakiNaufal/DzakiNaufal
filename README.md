@@ -1,17 +1,18 @@
 <!-- Profil GitHub - Dzaki Naufal Putra -->
 
 <h1 align="center">👋 Hi, I'm Dzaki Naufal Putra</h1>
-<h3 align="center">💻 Mahasiswa Teknologi Informasi | Coding Enthusiast</h3>
+<h3 align="center">💻 Imformation Technology student | Coding Enthusiast</h3>
 
 ---
 
-### 👨‍💻 Tentang Saya
-Saya seorang mahasiswa jurusan **Teknologi Informasi** yang suka mempelajari berbagai hal baru di dunia **teknologi dan pemrograman**.  
-Saya senang membangun aplikasi, memahami konsep logika pemrograman, dan terus mengasah skill dalam pengembangan software.
+### 👨‍💻 About Me
+
+I'm an **Information Technology** student who enjoys learning new things in the world of **technology and programming**.
+I enjoy building applications, understanding programming logic concepts, and continually honing my software development skills.
 
 ---
 
-### 🧠 Bahasa & Teknologi
+### 🧠 Programming Language & Technology
 <p align="center">
   <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3" />
@@ -25,7 +26,7 @@ Saya senang membangun aplikasi, memahami konsep logika pemrograman, dan terus me
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DzakiNaufal&show_icons=true&theme=tokyonight&count_private=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakiNaufal&theme=tokyonight" height="165">
@@ -49,7 +50,7 @@ Saya senang membangun aplikasi, memahami konsep logika pemrograman, dan terus me
 
 ---
 
-### 🐍 Aktivitas Kontribusi
+### 🐍 Contribution Activities
 <p align="center">
   <img src="https://github.com/DzakiNaufal/DzakiNaufal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
