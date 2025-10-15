@@ -1,7 +1,7 @@
 <!-- Profil GitHub - Dzaki Naufal Putra -->
 
 <h1 align="center">👋 Hi, I'm Dzaki Naufal Putra</h1>
-<h3 align="center">💻 Imformation Technology student | Coding Enthusiast</h3>
+<h3 align="center">💻 Imformation Technology student | Padang State Polytechnic | Coding Enthusiast</h3>
 
 ---
 
