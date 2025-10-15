@@ -16,11 +16,13 @@ I enjoy building applications, understanding programming logic concepts, and con
 ---
 
 ### 🧠 Programming Language & Technology
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" width="48" title="Laravel - PHP Web Framework" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java - Object Oriented Programming Language" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL - Relational Database" />
-</p>
+| Teknologi | Deskripsi |
+|------------|------------|
+| <img src="https://skillicons.dev/icons?i=html" width="40" /> | Struktur dasar halaman web |
+| <img src="https://skillicons.dev/icons?i=css" width="40" /> | Mendesain tampilan web |
+| <img src="https://skillicons.dev/icons?i=js" width="40" /> | Interaktivitas dan logika front-end |
+| <img src="https://skillicons.dev/icons?i=php" width="40" /> | Server-side scripting |
+
 
 
 ---
