@@ -41,12 +41,25 @@ I enjoy building applications, understanding programming logic concepts, and con
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank" title="LinkedIn - Dzaki Naufal Putra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="border-radius: 8px; transition: transform 0.2s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"
+    />
   </a>
   <a href="https://www.instagram.com/dzaakk1" target="_blank" title="Instagram - @dzaakk1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+      style="border-radius: 8px; transition: transform 0.2s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"
+    />
   </a>
 </p>
+
 
 ---
 
