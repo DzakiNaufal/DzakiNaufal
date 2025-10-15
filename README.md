@@ -17,14 +17,11 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 ### 🧠 Programming Language & Technology
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br>HTML</a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>CSS</a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>JavaScript</a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br>Python</a>
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" title="Laravel - PHP Web Framework" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java - Object Oriented Programming Language" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL - Relational Database" />
 </p>
+
 
 ---
 
