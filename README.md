@@ -16,12 +16,21 @@ I enjoy building applications, understanding programming logic concepts, and con
 ---
 
 ### 🧠 Programming Language & Technology
-| Teknologi | Deskripsi |
-|------------|------------|
-| <img src="https://skillicons.dev/icons?i=html" width="40" /> | Struktur dasar halaman web |
-| <img src="https://skillicons.dev/icons?i=css" width="40" /> | Mendesain tampilan web |
-| <img src="https://skillicons.dev/icons?i=js" width="40" /> | Interaktivitas dan logika front-end |
-| <img src="https://skillicons.dev/icons?i=php" width="40" /> | Server-side scripting |
+| Technology | Description |
+|-------------|-------------|
+| <img src="https://skillicons.dev/icons?i=html" width="40" /> | The standard markup language for creating web pages. |
+| <img src="https://skillicons.dev/icons?i=css" width="40" /> | Stylesheet language used to design the look and layout of web pages. |
+| <img src="https://skillicons.dev/icons?i=js" width="40" /> | Programming language that enables interactive and dynamic web content. |
+| <img src="https://skillicons.dev/icons?i=php" width="40" /> | Server-side scripting language for web development. |
+| <img src="https://skillicons.dev/icons?i=laravel" width="40" /> | PHP framework for building modern web applications. |
+| <img src="https://skillicons.dev/icons?i=python" width="40" /> | High-level programming language known for readability and versatility. |
+| <img src="https://skillicons.dev/icons?i=java" width="40" /> | Object-oriented programming language used for backend and Android development. |
+| <img src="https://skillicons.dev/icons?i=mysql" width="40" /> | Relational database management system for storing and managing data. |
+| <img src="https://skillicons.dev/icons?i=figma" width="40" /> | Design and prototyping tool for user interfaces and UX workflows. |
+| <img src="https://skillicons.dev/icons?i=react" width="40" /> | JavaScript library for building dynamic and responsive user interfaces. |
+| <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /> | CSS framework for creating responsive and mobile-first web designs. |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> | Utility-first CSS framework for rapidly building custom designs. |
+
 
 
 
