@@ -44,18 +44,19 @@ I enjoy building applications, understanding programming logic concepts, and con
     <img 
       src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-      style="border-radius: 8px; transition: transform 0.2s ease-in-out;"
-      onmouseover="this.style.transform='scale(1.1)';"
-      onmouseout="this.style.transform='scale(1)';"
+      style="border-radius: 12px; box-shadow: 0 0 8px rgba(10, 102, 194, 0.6); transition: all 0.3s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 15px rgba(10, 102, 194, 0.9)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 8px rgba(10, 102, 194, 0.6)';"
     />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/dzaakk1" target="_blank" title="Instagram - @dzaakk1">
     <img 
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
-      style="border-radius: 8px; transition: transform 0.2s ease-in-out;"
-      onmouseover="this.style.transform='scale(1.1)';"
-      onmouseout="this.style.transform='scale(1)';"
+      style="border-radius: 12px; box-shadow: 0 0 8px rgba(228, 64, 95, 0.6); transition: all 0.3s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 15px rgba(228, 64, 95, 0.9)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 8px rgba(228, 64, 95, 0.6)';"
     />
   </a>
 </p>
