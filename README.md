@@ -17,7 +17,7 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 ### 🧠 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,c#,laravel,python,java,mysql,figma,react,bootstrap,tailwind&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,laravel,python,java,mysql,figma,react,bootstrap,tailwind&perline=6&theme=dark" />
 </p>
 
 
