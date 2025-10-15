@@ -40,10 +40,10 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank">
+  <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank" title="LinkedIn - Dzaki Naufal Putra">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/dzaakk1" target="_blank">
+  <a href="https://www.instagram.com/dzaakk1" target="_blank" title="Instagram - @dzaakk1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
