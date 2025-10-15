@@ -27,22 +27,22 @@ Saya senang membangun aplikasi, memahami konsep logika pemrograman, dan terus me
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzak1nauf4l&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzak1nauf4l&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=DzakiNaufal&show_icons=true&theme=tokyonight&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakiNaufal&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzak1nauf4l&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakiNaufal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dzakk" target="_blank">
+  <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/dzakk" target="_blank">
+  <a href="https://www.instagram.com/dzaakk1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -51,7 +51,7 @@ Saya senang membangun aplikasi, memahami konsep logika pemrograman, dan terus me
 
 ### 🐍 Aktivitas Kontribusi
 <p align="center">
-  <img src="https://github.com/dzak1nauf4l/dzak1nauf4l/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/DzakiNaufal/DzakiNaufal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
