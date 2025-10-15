@@ -17,7 +17,7 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 ### 🧠 Programming Language & Technology
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,java,mysql,figma,react,bootstrap,tailwind" />
 </p>
 
 ---
