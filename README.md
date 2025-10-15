@@ -16,7 +16,7 @@ I enjoy building applications, understanding programming logic concepts, and con
 ---
 
 ### 🧠 Programming Language & Technology
-<p align="center">
+<div align="center">
 | Technology | Description |
 |-------------|-------------|
 | <img src="https://skillicons.dev/icons?i=html" width="40" /> | The standard markup language for creating web pages. |
@@ -31,7 +31,7 @@ I enjoy building applications, understanding programming logic concepts, and con
 | <img src="https://skillicons.dev/icons?i=react" width="40" /> | JavaScript library for building dynamic and responsive user interfaces. |
 | <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /> | CSS framework for creating responsive and mobile-first web designs. |
 | <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> | Utility-first CSS framework for rapidly building custom designs. |
-</p>
+</div>
 
 
 
