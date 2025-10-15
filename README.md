@@ -24,7 +24,6 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 
 
-
 ---
 
 ### 📊 GitHub Statistics
