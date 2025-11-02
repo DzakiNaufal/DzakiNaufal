@@ -1,5 +1,9 @@
 <!-- Profil GitHub - Dzaki Naufal Putra -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DzakiNaufal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dzaki+Naufal+Putra;Welcome+to+my+GitHub+Profile!;Coding+is+my+passion+🚀" alt="Typing SVG" />
 </h1>
