@@ -1,7 +1,7 @@
 <!-- Profil GitHub - Dzaki Naufal Putra -->
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaXgzNjZzYXRiN2Zkc3oxY241ZGRnbjUxYjZraGdpODh4MHF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" alt="coding gif">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NsZG43NWg5MXplam92dHF5Nzl3NDU1djk5NTAwZmgzbnE1bjN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="coding gif">
 </p>
 
 
