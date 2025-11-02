@@ -1,6 +1,11 @@
 <!-- Profil GitHub - Dzaki Naufal Putra -->
 
 <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaXgzNjZzYXRiN2Zkc3oxY241ZGRnbjUxYjZraGdpODh4MHF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" alt="coding gif">
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
