@@ -5,16 +5,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/dzaakk1" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dzaki+Naufal+Putra;Welcome+to+my+GitHub+Profile!;Coding+is+my+passion+🚀" alt="Typing SVG" />
 </h1>
@@ -55,8 +45,13 @@ I enjoy building applications, understanding programming logic concepts, and con
 
 ---
 
-
-
+### 🌐 Connect with Me 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/dzakinaufal14" target="_blank" title="LinkedIn"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+  <a href="https://www.instagram.com/dzaakk1" target="_blank" title="Instagram"> 
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
+</p>
 
 
 ---
