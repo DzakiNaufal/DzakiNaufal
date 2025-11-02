@@ -36,6 +36,14 @@ I enjoy building applications, understanding programming logic concepts, and con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakiNaufal&layout=compact&theme=tokyonight" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzakiNaufal/DzakiNaufal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzakiNaufal/DzakiNaufal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DzakiNaufal/DzakiNaufal/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
 ### 🌐 Connect with Me
