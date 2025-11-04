@@ -32,9 +32,13 @@ I enjoy building applications, understanding programming logic concepts, and con
 ---
 
 ### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DzakiNaufal&show_icons=true&theme=tokyonight&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakiNaufal&theme=tokyonight" height="165">
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DzakiNaufal&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzakiNaufal&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
